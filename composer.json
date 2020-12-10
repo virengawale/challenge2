@@ -1,0 +1,25 @@
+{
+    "name" : "Pwc/EntityAuditor",
+    "description" : "Entity auditor bundle",
+    "type" : "symfony-bundle",
+    "authors" : [{
+        "name" : "Eastern enterprise",
+        "email" : "v.gawale@easternenterprise.com"
+    }],
+    "keywords" : [
+        "Entity auditor bundle"
+    ],
+    "license" : [
+        "Eastern Enterprise pvt ltd"
+    ],
+    "require" : {
+    },
+    "autoload" : {
+        "psr-0" : {
+            "Pwc\\EntityAuditor" : ""
+        }
+    },
+    "target-dir" : "Pwc/EntityAuditor",
+    "repositories" : [{
+    }]
+}
