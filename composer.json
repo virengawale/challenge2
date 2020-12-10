@@ -1,5 +1,5 @@
 {
-    "name" : "entityAuditor",
+    "name" : "pwc/entity-auditor",
     "description" : "Entity auditor bundle",
     "type" : "symfony-bundle",
     "authors" : [{
