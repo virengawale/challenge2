@@ -1,5 +1,5 @@
 {
-    "name" : "EntityAuditor",
+    "name" : "entityAuditor",
     "description" : "Entity auditor bundle",
     "type" : "symfony-bundle",
     "authors" : [{
